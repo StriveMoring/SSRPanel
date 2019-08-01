@@ -4,7 +4,7 @@ Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 - [Demo](https://demo.ssrpanel.com)
 - [Telegram](https://t.me/ssrpanel)
 - [Issues](https://github.com/ssrpanel/SSRPanel/issues)
-- [WIKI](https://github.com/ssrpanel/SSRPanel/wiki)
+- [WIKI](https://github.com/StriveMoring/SSRPanel/wiki/使用宝塔面板搭建SSRPanel)
 
 ## Donate
 **ETH** : 0x968f797f194fcec05ea571723199748b58de38ba
